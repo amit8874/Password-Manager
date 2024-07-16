@@ -1,0 +1,18 @@
+Input Details:
+
+Master Password: Enter a master password to encrypt and decrypt your data.
+Add Password: Enter the category, name, and password to store.
+Get Password: Retrieve the password for a given category and name.
+Generate Password: Generate a strong random password of a specified length.
+
+Features
+
+Encryption: Uses strong encryption to store passwords securely.
+Strong Password Generation: Generates strong passwords using the secrets library.
+Categorization: Organize passwords by category.
+Secure Retrieval: Retrieves passwords securely when needed.
+
+Security Note
+
+Master Password: Keep your master password secure, as it is used to encrypt and decrypt your password data.
+Encryption: This example uses AES encryption for securing passwords. Ensure your environment is secure and your dependencies are up to date.
